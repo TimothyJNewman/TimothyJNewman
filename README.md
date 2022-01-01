@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my personal website
+- 🌱 I’m currently learning React, Webdev and Python
+- 👯 I’m looking for a SWE internship over summer 2022
+- 📫 How to reach me: [https://www.timothynewman.co.uk/](https://www.timothynewman.co.uk/)
+
 <!--
 **TimothyJNewman/TimothyJNewman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
