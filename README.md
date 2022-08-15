@@ -2,7 +2,7 @@
 
 - 🔭 Working on my personal website and job-application-tracker
 - 🌱 Learning React, Webdev and Python
-- 👯 Interning as SWE over summer 2022
+- 👯 Interning as Front-end Developer at Bühler UK Ltd over summer 2022
 - 📫 How to reach me: [https://www.timothynewman.co.uk/](https://www.timothynewman.co.uk/)
 
 <!--
