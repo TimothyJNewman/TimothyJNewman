@@ -2,7 +2,8 @@
 
 - 🔭 Working on my personal website and job-application-tracker
 - 🌱 Learning React, Webdev and Python
-- 👯 Interning as Front-end Developer at Bühler UK Ltd over summer 2022
+- 👯 Interned as Front-end Developer at Bühler UK Ltd over summer 2022
+- ✍ Looking for Electronics/Software/System Engineering for my 6 month placement from March 2023 to September 2023
 - 📫 How to reach me: [https://www.timothynewman.co.uk/](https://www.timothynewman.co.uk/)
 
 <!--
