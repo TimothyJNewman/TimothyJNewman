@@ -4,7 +4,7 @@
 - 🌱 Learning React, Webdev and Python
 - 👯 Interned as Front-end Developer at Bühler UK Ltd over summer 2022
 - 👯 Interned as Hardware verification intern at Mediatek over Spring and Summer 2023
-- ✍ Looking for Electronics/Software Engineering roles after graduating in 2024
+- 👯 Analog IC design engineer at EnSilica
 - 📫 How to reach me: [https://www.timothynewman.co.uk/](https://www.timothynewman.co.uk/)
 
 <!--
